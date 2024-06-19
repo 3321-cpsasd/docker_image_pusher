@@ -1,5 +1,3 @@
-temporalio/auto-setup:latest
-
-temporalio/admin-tools:latest
-
-temporalio/ui:latest
+temporalio/auto-setup
+temporalio/admin-tools
+temporalio/ui
