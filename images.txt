@@ -1,3 +1,5 @@
 temporalio/auto-setup:latest
+
 temporalio/admin-tools:latest
+
 temporalio/ui:latest
