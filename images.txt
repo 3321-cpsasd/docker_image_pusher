@@ -1,3 +1,2 @@
-temporalio/auto-setup
-temporalio/admin-tools
-temporalio/ui
+golang:1.20
+alpine:latest
